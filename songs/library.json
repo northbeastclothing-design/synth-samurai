@@ -1,0 +1,147 @@
+{
+ "songs": [
+  {
+   "id": "after_death",
+   "title": "After Death",
+   "artist": "juicebox710",
+   "art": "assets/art/after_death.jpg",
+   "music": "assets/audio/after death.mp3",
+   "durationSec": 101.72,
+   "charts": {
+    "easy": "after_death_easy",
+    "medium": "after_death",
+    "hard": "after_death_hard"
+   }
+  },
+  {
+   "id": "arcade_assault",
+   "title": "Arcade Assault",
+   "artist": "juicebox710",
+   "art": "assets/art/arcade_assault.jpg",
+   "music": "assets/audio/Arcade Assault.mp3",
+   "durationSec": 89.93,
+   "charts": {
+    "easy": "arcade_assault_easy",
+    "medium": "arcade_assault",
+    "hard": "arcade_assault_hard"
+   }
+  },
+  {
+   "id": "in_the_light",
+   "title": "In the Light",
+   "artist": "juicebox710",
+   "art": "assets/art/in_the_light.jpg",
+   "music": "assets/audio/In the Light.mp3",
+   "durationSec": 210.64,
+   "charts": {
+    "easy": "in_the_light_easy",
+    "medium": "in_the_light",
+    "hard": "in_the_light_hard"
+   }
+  },
+  {
+   "id": "in_the_light_rap",
+   "title": "In the Light (Rap)",
+   "artist": "juicebox710",
+   "art": "assets/art/in_the_light_rap.jpg",
+   "music": "assets/audio/In the Light-Rap.mp3",
+   "durationSec": 199.68,
+   "charts": {
+    "easy": "in_the_light_rap_easy",
+    "medium": "in_the_light_rap",
+    "hard": "in_the_light_rap_hard"
+   }
+  },
+  {
+   "id": "moonlit_kata",
+   "title": "Moonlit Kata",
+   "artist": "juicebox710",
+   "art": "assets/art/moonlit_kata.jpg",
+   "music": "assets/audio/Jesse Song 3.mp3",
+   "durationSec": 156.08,
+   "charts": {
+    "easy": "moonlit_kata_easy",
+    "medium": "moonlit_kata",
+    "hard": "moonlit_kata_hard"
+   }
+  },
+  {
+   "id": "neon_rain",
+   "title": "Neon Rain",
+   "artist": "juicebox710",
+   "art": "assets/art/neon_rain.jpg",
+   "music": "assets/audio/Jesse Song 2.mp3",
+   "durationSec": 123.4,
+   "charts": {
+    "easy": "neon_rain_easy",
+    "medium": "neon_rain",
+    "hard": "neon_rain_hard"
+   }
+  },
+  {
+   "id": "paper_lanterns",
+   "title": "Paper Lanterns",
+   "artist": "juicebox710",
+   "art": "assets/art/paper_lanterns.jpg",
+   "music": "assets/audio/Jesse Song 1.mp3",
+   "durationSec": 151.64,
+   "charts": {
+    "easy": "paper_lanterns_easy",
+    "medium": "paper_lanterns",
+    "hard": "paper_lanterns_hard"
+   }
+  },
+  {
+   "id": "retro_drive",
+   "title": "Retro Drive",
+   "artist": "juicebox710",
+   "art": "assets/art/retro_drive.jpg",
+   "music": "assets/audio/Retro Drive.mp3",
+   "durationSec": 92.4,
+   "charts": {
+    "easy": "retro_drive_easy",
+    "medium": "retro_drive",
+    "hard": "retro_drive_hard"
+   }
+  },
+  {
+   "id": "rising_sun",
+   "title": "Rising Sun",
+   "artist": "juicebox710",
+   "art": "assets/art/rising_sun.jpg",
+   "music": "assets/audio/Jesse Song 4.mp3",
+   "durationSec": 124.81,
+   "charts": {
+    "easy": "rising_sun_easy",
+    "medium": "rising_sun",
+    "hard": "rising_sun_hard"
+   }
+  },
+  {
+   "id": "whats_the_theme",
+   "title": "What's the Theme",
+   "artist": "juicebox710",
+   "art": "assets/art/whats_the_theme.jpg",
+   "music": "assets/audio/What's the Theme - Rock.mp3",
+   "durationSec": 126.0,
+   "charts": {
+    "easy": "whats_the_theme_easy",
+    "medium": "whats_the_theme",
+    "hard": "whats_the_theme_hard"
+   }
+  },
+  {
+   "id": "within_it",
+   "title": "Within It",
+   "artist": "juicebox710",
+   "art": "assets/art/within_it.jpg",
+   "music": "assets/audio/Within It - Rap.mp3",
+   "durationSec": 124.0,
+   "charts": {
+    "easy": "within_it_easy",
+    "medium": "within_it",
+    "hard": "within_it_hard"
+   }
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "id": "arcade_assault_easy",
+ "title": "Arcade Assault (Easy)",
+ "music": "assets/audio/Arcade Assault.mp3",
+ "bpm": 128.08,
+ "beat0Sec": 1.353,
+ "tempo": [
+  [
+   0.0,
+   127.9797
+  ],
+  [
+   7.5012,
+   128.0434
+  ],
+  [
+   14.9986,
+   128.1304
+  ],
+  [
+   22.491,
+   128.084
+  ],
+  [
+   29.9861,
+   128.1045
+  ],
+  [
+   37.48,
+   128.0717
+  ],
+  [
+   44.9758,
+   128.3333
+  ],
+  [
+   52.4563,
+   128.4332
+  ],
+  [
+   59.931,
+   128.7512
+  ],
+  [
+   67.3872,
+   129.1539
+  ],
+  [
+   74.8202,
+   129.4487
+  ]
+ ],
+ "difficulty": "easy",
+ "notes": [
+  "4:jump",
+  "10:slide:4",
+  "16:slide",
+  "20:jump",
+  "25:slide",
+  "28:jump",
+  "34:block",
+  "36:jump",
+  "40:jump",
+  "40.5:strike",
+  "44:slide",
+  "48:jump",
+  "50:slide",
+  "52:strike",
+  "56:strike",
+  "60:jump",
+  "64:strike",
+  "68:slide",
+  "70:jump",
+  "72:jump",
+  "74:strike",
+  "76:jump",
+  "80:strike",
+  "82:jump",
+  "84:jump",
+  "88:strike",
+  "90:slide",
+  "92:jump",
+  "96:strike",
+  "100:jump",
+  "106:block:4",
+  "112:jump",
+  "116:strike",
+  "118:jump",
+  "120:strike",
+  "124:strike",
+  "128:jump",
+  "130:strike",
+  "132:block",
+  "138:strike",
+  "140:strike",
+  "145:slide",
+  "148:jump",
+  "152:jump",
+  "152.5:strike",
+  "156:jump",
+  "158:slide",
+  "160:jump",
+  "162:slide",
+  "164:jump",
+  "168:strike",
+  "170:jump",
+  "172:slide",
+  "176:jump",
+  "178:strike",
+  "180:jump"
+ ],
+ "roadBeats": 188,
+ "roadBlockBeats": 16,
+ "blockLevels": [
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  1,
+  0,
+  1,
+  1,
+  0,
+  -1
+ ],
+ "widePitBeats": [],
+ "starBeats": [
+  20,
+  60,
+  100,
+  132
+ ],
+ "blockStarBeats": [],
+ "strikePatrolBeats": [
+  118,
+  170
+ ],
+ "collectibleBeats": [
+  30,
+  98,
+  143
+ ],
+ "bossBeats": [
+  112,
+  132
+ ],
+ "speedBeats": [
+  40,
+  60
+ ]
+}

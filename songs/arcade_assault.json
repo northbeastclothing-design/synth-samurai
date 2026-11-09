@@ -1,0 +1,213 @@
+{
+ "id": "arcade_assault",
+ "title": "Arcade Assault",
+ "music": "assets/audio/Arcade Assault.mp3",
+ "bpm": 128.08,
+ "beat0Sec": 1.353,
+ "tempo": [
+  [
+   0.0,
+   127.9797
+  ],
+  [
+   7.5012,
+   128.0434
+  ],
+  [
+   14.9986,
+   128.1304
+  ],
+  [
+   22.491,
+   128.084
+  ],
+  [
+   29.9861,
+   128.1045
+  ],
+  [
+   37.48,
+   128.0717
+  ],
+  [
+   44.9758,
+   128.3333
+  ],
+  [
+   52.4563,
+   128.4332
+  ],
+  [
+   59.931,
+   128.7512
+  ],
+  [
+   67.3872,
+   129.1539
+  ],
+  [
+   74.8202,
+   129.4487
+  ]
+ ],
+ "difficulty": "medium",
+ "notes": [
+  "4:jump",
+  "6:strike",
+  "9:strike",
+  "10:slide:2",
+  "13.5:slide",
+  "16:slide",
+  "19:strike",
+  "20:jump",
+  "23.5:strike",
+  "25:slide",
+  "27:strike",
+  "27.5:strike",
+  "28:jump",
+  "30:slide",
+  "34:block",
+  "36:jump",
+  "39:strike",
+  "39.5:strike",
+  "40:jump",
+  "41.5:strike",
+  "43:slide",
+  "44:slide",
+  "45:strike",
+  "47:strike",
+  "48:jump",
+  "48.5:strike",
+  "50:slide",
+  "51.5:strike",
+  "52:strike",
+  "53:slide",
+  "55:jump",
+  "56:strike",
+  "57:slide",
+  "60:jump",
+  "63:slide",
+  "64:strike",
+  "68:slide",
+  "70:jump",
+  "71:strike",
+  "71.5:strike",
+  "72:jump",
+  "73:jump",
+  "74:strike",
+  "75:slide",
+  "76:jump",
+  "77:strike",
+  "78.5:slide",
+  "80:strike",
+  "81:slide",
+  "82:jump",
+  "84:jump",
+  "86:slide",
+  "88:strike",
+  "90:slide",
+  "92:jump",
+  "95:block",
+  "96:strike",
+  "97:slide",
+  "100:jump",
+  "106:block:3",
+  "109.5:strike",
+  "111:strike",
+  "111.5:strike",
+  "112:jump",
+  "113:slide",
+  "115:strike",
+  "116:strike",
+  "117:slide",
+  "118:jump",
+  "120:strike",
+  "121:slide",
+  "123:jump",
+  "124:strike",
+  "125:block",
+  "127:slide",
+  "128:jump",
+  "128.5:strike",
+  "130:strike",
+  "132:block",
+  "138:strike",
+  "140:strike",
+  "145:slide",
+  "147:strike",
+  "148:jump",
+  "149:slide",
+  "151:strike",
+  "151.5:strike",
+  "152:jump",
+  "153:jump",
+  "155:slide",
+  "155.5:strike",
+  "156:jump",
+  "156.5:strike",
+  "158:slide",
+  "159:strike",
+  "159.5:strike",
+  "160:jump",
+  "161.5:strike",
+  "162:slide",
+  "163:strike",
+  "164:jump",
+  "165:strike",
+  "167:slide",
+  "168:strike",
+  "170:jump",
+  "172:slide:2",
+  "175.5:strike",
+  "176:jump",
+  "176.5:strike",
+  "178:strike",
+  "179:slide",
+  "180:jump"
+ ],
+ "roadBeats": 188,
+ "roadBlockBeats": 16,
+ "blockLevels": [
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  1,
+  0,
+  1,
+  1,
+  0,
+  -1
+ ],
+ "widePitBeats": [
+  72,
+  152
+ ],
+ "starBeats": [
+  20,
+  60,
+  100,
+  132
+ ],
+ "blockStarBeats": [],
+ "strikePatrolBeats": [
+  118,
+  170
+ ],
+ "collectibleBeats": [
+  29,
+  98,
+  146
+ ],
+ "bossBeats": [
+  112,
+  132
+ ],
+ "speedBeats": [
+  40,
+  60
+ ]
+}

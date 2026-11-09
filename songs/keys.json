@@ -1,0 +1,155 @@
+{
+ "assets/audio/after death.mp3": {
+  "key": "A# minor",
+  "tonic": 10,
+  "riff": [
+   0,
+   3,
+   5,
+   7,
+   10
+  ],
+  "score": 0.776,
+  "margin": 0.081,
+  "sure": true
+ },
+ "assets/audio/Arcade Assault.mp3": {
+  "key": "D minor",
+  "tonic": 2,
+  "riff": [
+   0,
+   3,
+   5,
+   7,
+   10
+  ],
+  "score": 0.804,
+  "margin": 0.079,
+  "sure": true
+ },
+ "assets/audio/In the Light.mp3": {
+  "key": "F# major",
+  "tonic": 6,
+  "riff": [
+   0,
+   2,
+   4,
+   7,
+   9
+  ],
+  "score": 0.809,
+  "margin": 0.245,
+  "sure": true
+ },
+ "assets/audio/In the Light-Rap.mp3": {
+  "key": "F major",
+  "tonic": 5,
+  "riff": [
+   0,
+   2,
+   4,
+   7,
+   9
+  ],
+  "score": 0.65,
+  "margin": 0.086,
+  "sure": true
+ },
+ "assets/audio/Jesse Song 3.mp3": {
+  "key": "C major",
+  "tonic": 0,
+  "riff": [
+   0,
+   2,
+   4,
+   7,
+   9
+  ],
+  "score": 0.855,
+  "margin": 0.082,
+  "sure": true
+ },
+ "assets/audio/Jesse Song 2.mp3": {
+  "key": "D minor",
+  "tonic": 2,
+  "riff": [
+   0,
+   2,
+   5,
+   7
+  ],
+  "score": 0.827,
+  "margin": 0.068,
+  "sure": false
+ },
+ "assets/audio/Jesse Song 1.mp3": {
+  "key": "C major",
+  "tonic": 0,
+  "riff": [
+   0,
+   2,
+   4,
+   7,
+   9
+  ],
+  "score": 0.85,
+  "margin": 0.194,
+  "sure": true
+ },
+ "assets/audio/Retro Drive.mp3": {
+  "key": "D major",
+  "tonic": 2,
+  "riff": [
+   0,
+   2,
+   5,
+   7
+  ],
+  "score": 0.743,
+  "margin": 0.032,
+  "sure": false
+ },
+ "assets/audio/Jesse Song 4.mp3": {
+  "key": "C major",
+  "tonic": 0,
+  "riff": [
+   0,
+   2,
+   4,
+   7,
+   9
+  ],
+  "score": 0.871,
+  "margin": 0.262,
+  "sure": true
+ },
+ "assets/audio/What's the Theme - Rock.mp3": {
+  "key": "D minor",
+  "tonic": 2,
+  "riff": [
+   0,
+   3,
+   5,
+   7,
+   10
+  ],
+  "score": 0.686,
+  "margin": 0.177,
+  "sure": true
+ },
+ "assets/audio/Within It - Rap.mp3": {
+  "key": "F minor",
+  "tonic": 5,
+  "riff": [
+   0,
+   2,
+   3,
+   5,
+   7,
+   10
+  ],
+  "score": 0.784,
+  "margin": 0.02,
+  "sure": false
+ }
+}
